@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.b4abc917.css",
+    "main.js": "/reactlivewebsite/static/js/main.d65f9718.js",
+    "static/media/nn.jpg": "/reactlivewebsite/static/media/nn.59a1ed595f0974c346df.jpg",
+    "static/media/java.jpg": "/reactlivewebsite/static/media/java.a30a167a5128d93c985d.jpg",
+    "static/media/img2.JPG": "/reactlivewebsite/static/media/img2.507b0fc7801f0a6fe7c3.JPG",
+    "static/media/small.JPG": "/reactlivewebsite/static/media/small.abe88b32936daaf658f0.JPG",
+    "static/media/img3.JPG": "/reactlivewebsite/static/media/img3.19a487426994042ad33d.JPG",
+    "static/media/deep.JPG": "/reactlivewebsite/static/media/deep.acf9dbf50ea6b0af7331.JPG",
+    "static/media/google.JPG": "/reactlivewebsite/static/media/google.d6b427e2fe42088df475.JPG",
+    "static/media/ibm.JPG": "/reactlivewebsite/static/media/ibm.3b6d4d5939bed0e12eff.JPG",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.b4abc917.css.map": "/reactlivewebsite/static/css/main.b4abc917.css.map",
+    "main.d65f9718.js.map": "/reactlivewebsite/static/js/main.d65f9718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4abc917.css",
+    "static/js/main.d65f9718.js"
+  ]
+}
